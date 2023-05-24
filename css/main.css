@@ -4,7 +4,7 @@ body {
 }
 .emojis{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    
 }
 .emoji {
     border: 1px solid #222;
