@@ -6,6 +6,8 @@ body {
     border: 1px solid #222;
     border-radius: 8px;
     padding: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
 .emoji h2 {
     margin: 0;
